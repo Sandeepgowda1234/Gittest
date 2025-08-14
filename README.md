@@ -1,2 +1,2 @@
 # Gittest
-test repo
+test repo for commands demostrations
